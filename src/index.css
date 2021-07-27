@@ -1,0 +1,15 @@
+body{
+  font-family: 'Lato', sans-serif;
+  size: 2rem;
+}
+
+
+.img-size {
+  max-width: 17rem;
+  max-height:  17rem;
+}
+
+.list-group-item:hover{
+  background: rgb(228, 231, 58);
+}
+
